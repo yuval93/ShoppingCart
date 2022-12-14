@@ -1,0 +1,15 @@
+.ProductList >tr {
+    border-style: 5px solid black,
+}
+
+.ProductList>form {
+    width: 250px;
+}
+
+.ProductList > input,
+
+.ProductList > button {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}

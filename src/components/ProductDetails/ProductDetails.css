@@ -1,0 +1,9 @@
+.ProductDetails.Box {
+	width: 250px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.ProductDetails > img {
+    margin: 10px;
+}
